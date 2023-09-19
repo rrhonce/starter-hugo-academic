@@ -1,5 +1,5 @@
 ---
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 bio: Virologist that dabbles in Immunology and Ecology
 interests:
   - Virology
