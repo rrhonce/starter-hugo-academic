@@ -1,8 +1,8 @@
 ---
 avatar_filename: headshot.jpg
-bio: Virologist that dabbles in immunology and disesase ecology
+bio: Virologist that dabbles in Immunology and Ecology
 interests:
-  - Virology;HostResponses;Immunology;DiseaseEcology;ViralEvolution
+  - Virology
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,7 +14,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Vermont Lung Center T32 Postdoctoral Fellow
+  - name: Vermont Lung Center T32 Fellow
     url: http://www.med.uvm.edu/vermontlung/home
 education:
   courses:
@@ -28,9 +28,10 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Early-career researcher
+role: Postdoctoral Scientist
 highlight_name: true
 title: Rebekah Honce, PhD
 first_name: Alice
 email: ""
 ---
+Early-career scientist fascinated by the host-pathogen arms race. Trained RNA cellular virologist focused on pathogenesis with side hustles in immunology and disease ecology. Working to better understand reservoir biology through a One Health lens. Passionate about educating and communicating with empathy.
