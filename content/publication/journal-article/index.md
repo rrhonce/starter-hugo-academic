@@ -4,7 +4,7 @@ abstract: "Avian influenza viruses continue to cross the species barrier and
   viruses obtained from humans infected with an emergent avian H3N8 viruses
   exhibit increasing accumulation of mutations that promote respiratory droplet
   transmission and disease in mammals. "
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
@@ -20,11 +20,10 @@ url_source: ""
 url_video: ""
 publication: Cell
 featured: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
 title: Looking beyond the H5 avian influenza viruses
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: "Image credit: [**Eder Pozo Pérez on
@@ -33,7 +32,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: birds.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: "10.1016/j.cell.2023.08.014 "
