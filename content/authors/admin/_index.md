@@ -1,4 +1,5 @@
 ---
+avatar_filename: headshot.jpg
 bio: Virologist that dabbles in immunology and disesase ecology
 interests:
   - Virology;HostResponses;Immunology;DiseaseEcology;ViralEvolution
