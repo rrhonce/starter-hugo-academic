@@ -2,7 +2,10 @@
 avatar_filename: avatar.jpg
 bio: Virologist that dabbles in Immunology and Ecology
 interests:
-  - Virology+HostResponses+ViralEvolution+DiseaseEcology+ReservoirBiology
+  - Viral Pathogenesis
+  - Immune Responses
+  - Viral Evolution
+  - Reservoir Biology
 social:
   - icon: envelope
     icon_pack: fas
